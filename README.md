@@ -100,6 +100,7 @@ https://github.com/AkashAnalytix/OLA-Vehicle-dashboard/blob/main/overall.png
 https://github.com/AkashAnalytix/OLA-Vehicle-dashboard/blob/main/Vehicle%20Type.png
 https://github.com/AkashAnalytix/OLA-Vehicle-dashboard/blob/main/Revenue.png
 https://github.com/AkashAnalytix/OLA-Vehicle-dashboard/blob/main/Cancellation.png
+https://github.com/AkashAnalytix/OLA-Vehicle-dashboard/blob/main/Rating.png
 
 Dashboard screenshots are included in this repository to demonstrate the different analytical views.
 
