@@ -97,10 +97,12 @@ Note: These figures represent the dashboard values for the displayed reporting p
 
 📸 Dashboard Preview
 https://github.com/AkashAnalytix/OLA-Vehicle-dashboard/blob/main/overall.png
+https://github.com/AkashAnalytix/OLA-Vehicle-dashboard/blob/main/Vehicle%20Type.png
 
 Dashboard screenshots are included in this repository to demonstrate the different analytical views.
 
 👨‍💻 Author
+Akash 
 
 Created as a Data Analytics project to demonstrate skills in business intelligence, data visualization, and analytical problem-solving.
 
